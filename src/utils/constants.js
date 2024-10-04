@@ -10,3 +10,6 @@ export const API_ENDPOINT_AUTH_REVIEWER_COORDINATOR = '/auth/user/reviewer_and_c
 export const API_ENDPOINT_USER_REGISTER = '/user/register';
 export const API_ENDPOINT_USER_UPDATE_ENROLL = '/user/update/enroll';
 export const API_ENDPOINT_USER_FIND_BY_ROLE = '/user/role';
+
+// AUTH
+export const AUTH_ENDPOINT_TOKEN_REQUEST = "https://eureca.lsd.ufcg.edu.br/as/tokens";
